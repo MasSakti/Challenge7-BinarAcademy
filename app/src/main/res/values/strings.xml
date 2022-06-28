@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Challenge7</string>
+
+    <string name="usernamePlaceholder">Welcome, %1$s 👋!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EmailKosong">Email tidak boleh kosong</string>
+    <string name="EmailPasswordKosong">Email dan Password tidak boleh kosong</string>
+    <string name="PasswordVerif">Password tidak sama. Check ulang Password</string>
+    <string name="EmailInvalid">Email tidak valid</string>
+    <string name="PasswordKosong">Password tidak boleh kosong</string>
+    <string name="PasswordKurang">Password kurang dari 8 karakter</string>
+    <string name="PasswordUpLow">Password harus mengandung uppercase dan lowercase</string>
+    <string name="PasswordConfirmation">Konfirmasi password tidak sama dengan password</string>
+    <string name="TidakTerdaftar">Email atau password tidak terdaftar</string>
+    <string name="AkunTerdaftar">Akun terdaftar</string>
+    <string name="tvTitleMovie">Judul</string>
+    <string name="tvDateDetail">Date</string>
+    <string name="tvRatingDetail">Rating</string>
+    <string name="tvVoteDetail">Vote</string>
+    <string name="tvPopularityDetail">Popularity</string>
+    <string name="tvOverview">Overview</string>
+    <string name="tvOverviewDetail">Description</string>
+    <string name="tvWelcomeHome">Welcome, Username!</string>
+    <string name="tvHome">Home</string>
+    <string name="tvListHome">List Movies</string>
+    <string name="tvLogin">Login</string>
+    <string name="etEmailLogin">Masukkan Email</string>
+    <string name="etPasswordLogin">Masukkan Password</string>
+    <string name="tvCreate">Daftar</string>
+    <string name="tvCreateExtend">Belum punya akun?</string>
+    <string name="tvProfile">Profile</string>
+    <string name="etUsernameRegister">Username</string>
+    <string name="etNameRegister">Nama Lengkap</string>
+    <string name="etEmailRegister">Email</string>
+    <string name="etBirthRegister">Tanggal Lahir</string>
+    <string name="etAddressRegister">Alamat</string>
+    <string name="btnLogout">Logout</string>
+    <string name="btnUpdateProfile">Update</string>
+    <string name="btnSaveUpdate">Save</string>
+    <string name="tvRegister">Register</string>
+    <string name="btnRegister">Daftar</string>
+    <string name="etPasswordRegisterVerif">Masukkan Password Ulang</string>
+    <string name="tvAddImage">Add Photo Profile</string>
+    <string name="tvMovieFavorite">Favorite Movie</string>
+</resources>
